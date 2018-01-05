@@ -1,0 +1,6 @@
+var config = {
+  naRegionUrl: 'https://na1.api.riotgames.com/',
+  apiKey: Your_API_Key
+}
+
+module.exports = config
